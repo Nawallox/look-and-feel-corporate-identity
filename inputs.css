@@ -1,0 +1,31 @@
+body {
+    color: #a83232;
+    background-color: #ee82ee;
+}
+
+label {
+    display: block;
+    font:
+      1rem 'Fira Sans',
+      sans-serif;
+      font-weight: bold;
+      border-style: inset;
+  }
+  
+  input,
+  label {
+    margin: 0.4rem 0;
+    font-weight: bold;
+  }
+  
+
+  label {
+    display: block;
+  }
+  
+  input[type='submit'],
+  label {
+    margin-top: 1rem;
+    font-weight: bold;
+  }
+  
