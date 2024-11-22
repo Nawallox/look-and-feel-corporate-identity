@@ -1,0 +1,20 @@
+section blockquote p {
+    width: 15cm; 
+    
+  }
+
+  section blockquote p  {
+    width: 35em; 
+    30-35 em goeie regellengte bij 16px
+  }
+
+  section blockquote p {
+    width: 15rem;
+    Verschil rem is dat het de root bepaald dus alle rem elementen pakt en em is alleen de font face 
+  }
+  
+  section blockquote p {
+    width: 60ch; 
+    ch is gelijk aan 0
+  }
+
