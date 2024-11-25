@@ -1,0 +1,158 @@
+.body{
+    background: url(achtergrond.jpg) no-repeat center center/cover;
+    width: 100%;
+    background-color: #6a0025;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.header {
+    height: 20px;
+    margin-top: 200px;
+    float: left;
+    background-color: #6a0025;
+    display: flex;
+    margin-left: 10px;
+}
+
+header img {
+    width: 13%;
+}
+
+article img {
+    width: 23%;
+    border-radius: 10px;
+    float: right;
+}
+
+h1 {
+    text-align: center;
+    color: #6a0025;  
+    padding-bottom: 100px;
+    font-family: 'Times New Roman';  
+    letter-spacing: 2px;
+}
+
+h2 {
+    text-align: left;
+    color: #6a0025;
+    
+}
+
+p {
+    text-align: left;
+    color: #000;
+    padding-left: 20px;
+    padding-bottom: 25px;
+    font-family: Arial;
+    letter-spacing: 1.2px;
+    line-height: 30px;
+}
+
+.inhoud {
+    width: 1200px;
+    height: auto;
+    margin: auto;
+    color: #fff;
+    position: relative;
+}
+
+.login-form {
+    width: 250px;
+    height: 380px;
+    background: linear-gradient(to top, #6a0025 50%, #6a0025 50%);
+    position: absolute;
+    top: -20px;
+    left: 870px;
+    transform: translate(0%, -5%);
+    border-radius: 10px;
+    padding: 25px;
+}
+
+.login-form h2 {
+    width: 220px;
+    font-family: sans-serif;
+    text-align: center;
+    color: #000;
+    font-size: 22px;
+    background-color: #f2d1dd;
+    border-radius: 10px;
+    margin: 2px;
+    padding: 8px;
+}
+
+.login-form input {
+    width: 240px;
+    height: 35px;
+    background: transparent;
+    border-bottom: 1px solid #f2d1dd;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    color: #fff;
+    font-size: 15px;
+    letter-spacing: 1px;
+    margin-top: 30px;
+    font-family: sans-serif;
+}
+
+.btnn {
+    width: 240px;
+    height: 40px;
+    background: #f2d1dd;
+    border: none;
+    margin-top: 30px;
+    font-size: 18px;
+    border-radius: 10px;
+    cursor: pointer;
+    color: #fff;
+    transition: 0.4s ease;
+}
+
+.btnn:hover {
+    background: #fff;
+}
+
+.btnn a {
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+}
+
+.login-form .link {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.login-form .link a {
+    text-decoration: none;
+    color: #f2d1dd;
+}
+
+
+footer {
+    background-color: #6a0025;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+footer p {
+    color: #fff;
+}
+
+footer ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    padding: 0;
+    gap: 10px;
+}
+
+footer ul li a {
+    color: white;
+    text-decoration: none;
+}
