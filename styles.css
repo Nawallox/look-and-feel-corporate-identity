@@ -4,13 +4,13 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f5f5f5;
+    background-color: #fff;
     color: #333;
 }
 
 /* Header met Grid */
 header {
-    background-color: #5c104e;
+    background-color: #6a0025;
     padding: 20px;
     display: grid;
     grid-template-columns: 1fr;
@@ -25,7 +25,7 @@ nav ul {
 }
 
 nav ul li a {
-    color: white;
+    color: #fff;
     text-decoration: none;
     font-weight: bold;
 }
@@ -38,14 +38,13 @@ nav ul li a {
 }
 
 #featured {
-    background-color: #e6bcf3;
+    background-color: #fff;
     padding: 40px 20px;
 }
 
-#featured h1 {
-    font-size: 24px;
-    margin-bottom: 20px;
-    text-align: center;
+h1 {
+    margin-bottom: 10px;
+    text-align: left;
 }
 
 .featured-content {
@@ -59,8 +58,38 @@ nav ul li a {
     border-radius: 8px;
 }
 
+.btnn {
+    width: 240px;
+    height: 40px;
+    background: #6a0025;
+    border: none;
+    margin-top: 30px;
+    font-size: 18px;
+    border-radius: 10px;
+    cursor: pointer;
+    color: #fff;
+    transition: 0.4s ease;
+}
+
+.btnn:hover {
+    background: #fff;
+}
+
+.btnn a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+
 #webinars {
     background-color: #fff;
+    padding: 40px 20px;
+}
+
+
+
+#webinars1 {
+    background-color: #f2d1dd;
     padding: 40px 20px;
 }
 
@@ -78,7 +107,7 @@ nav ul li a {
 }
 
 .webinar {
-    background-color: #f0f0f0;
+    background-color: #fff;
     padding: 20px;
     border-radius: 8px;
 }
@@ -95,13 +124,13 @@ nav ul li a {
 }
 
 .contour {
-    background-color: #f0f0f0;
+    background-color: #f2d1dd;
     padding: 20px;
     border-radius: 8px;
 }
 
 footer {
-    background-color: #5c104e;
+    background-color: #6a0025;
     color: white;
     padding: 20px;
     text-align: center;
