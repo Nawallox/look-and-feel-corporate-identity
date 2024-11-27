@@ -9,7 +9,9 @@ Feedback:
 
 Als feedback heb ik gekregen dat mijn website meer overzichtelijker moet zijn en niet te veel tekst op het eerste gezicht moet hebben, zodat gebruikers makkelijk kunnen vinden wat ze zoeken. Op de homepagina moet er duidelijk aangegeven worden wie ze zijn en wat de doel is van de website. Er moet ook aangegeven worden dat het een samenwerkingsverband is tussen Nederland en Indonesie. Daarnaast mag alles gewijzigd en toegevoegd worden.
 
-Afgelopen week heb ik me voornamelik gefocust op het maken van een home/login pagina waar er informatie te vinden is over wie en wat de doel is van Oncolloboration. Daarnaast heb ik op de home pagina ook een login form gemaakt, waar er in de toekomst daadwerkelijk ingelogd kan worden. Tijdens mijn sprint review van aanstaande donderdag wil ik dat de opdrachtgever mijn home/login pagina bekijkt en feedback geeft op hoe het gemaakt is en wat er beter kan.
+Wat heb ik gedaan?
+
+Afgelopen week heb ik me voornamelijk gefocust op het maken van een home/login pagina waar er informatie te vinden is over wie en wat de doel is van Oncolloboration. Daarnaast heb ik op de home pagina ook een login form gemaakt, waar er in de toekomst daadwerkelijk ingelogd kan worden. Tijdens mijn sprint review van aanstaande donderdag wil ik dat de opdrachtgever mijn home/login pagina bekijkt en feedback geeft op hoe het gemaakt is en wat er beter kan.
 
 ## Beschrijving
 
