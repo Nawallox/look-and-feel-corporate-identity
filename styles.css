@@ -1,14 +1,35 @@
+:root {
+    /*typografy*/
+    --primary-font: "inter", serif; 
+    --secondary-font: "jost", serif;
 
+    /*Color*/
+    --white: #fff;
+    --black: #333;
+    --primary-color: #6a0025;
+    --secondary-color-dark: #1F000B;
+    --secondary-color-light:#f4eaee;
+
+    /*btn*/
+
+    --button-normal: #F0E5E9;
+    --button--text-normal: #1F000B;
+    --button-hover: #6A0025;
+    --button-text-active: #fff;
+    --button-active:  #B47F92;
+    --button-active-hover: #4A0019;
+
+}
 
 body {
-    font-family: Arial, sans-serif;
+    font-family: var(--primary-font);
     margin: 0;
     padding: 0;
-    background-color: #fff;
+    background-color: var(--white);
     color: #333;
 }
 
-/* Header met Grid */
+
 header {
     background-color: #6a0025;
     padding: 20px;
